@@ -1,0 +1,2 @@
+Name: Tarjeta.class
+Java-Bean: True
