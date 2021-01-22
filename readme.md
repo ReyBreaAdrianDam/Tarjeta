@@ -15,7 +15,7 @@ Esta clase extiende de JFrame y verifica dnis
 Esta clase extiende de JPanel, y verifica tarjetas de credito
 ##### NewJFrame
 Esta clase eestaba para comprobar el funcionamiento de los JavaBeans
-##Metodo para comprobar el dni
+## Metodo para comprobar el dni
 ```Java
 public boolean comprobarDNI(int numero, char letra){
         dniErroneo = true;
@@ -43,7 +43,7 @@ public boolean comprobarDNI(int numero, char letra){
         return dniErroneo;
     }
 ```
-##Metodo para comprobar la tarjeta
+## Metodo para comprobar la tarjeta
 ```Java
 public void comprobarTarjeta(){
         CreditCardValidator x = new CreditCardValidator();
